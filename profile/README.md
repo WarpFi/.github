@@ -31,7 +31,3 @@
 <a target="_blank" href="https://www.instagram.com/warpevm" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="undefined@warpevm" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
 <a target="_blank" href="https://www.youtube.com/@WarpFinance" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=WarpFi&show_icons=true&locale=en" alt="WarpFi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WarpFi&" alt="WarpFi" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=WarpFi&show_icons=true&locale=en&layout=compact" alt="WarpFi" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WarpFi" alt="WarpFi" /></a></p>
