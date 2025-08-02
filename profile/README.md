@@ -1,6 +1,6 @@
 <h1>Welcome 👋, To Warp Finance</h1>
 <p>Building a API First token launchpad with Revenue share!</p>
-<a href='https://warp.finance/' target='_blank'><img src='https://i.postimg.cc/JtpSQQZ8/image.png' border='5000'width="4500" height="4500" alt='image'/></a>
+<a href='https://warp.finance/' target='_blank'><img src='https://i.postimg.cc/JtpSQQZ8/image.png' border='5000'width="1500" height="1500" alt='image'/></a>
 <h2>🚀 Languages and Tools We Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
