@@ -35,15 +35,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WarpFi&" alt="WarpFi" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=WarpFi&show_icons=true&locale=en&layout=compact" alt="WarpFi" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WarpFi" alt="WarpFi" /></a></p>
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
